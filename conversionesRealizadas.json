@@ -1,0 +1,26 @@
+[
+  {
+    "base_code": "EUR",
+    "target_code": "USD",
+    "amount": 0.0,
+    "conversion_result": 276.7125
+  },
+  {
+    "base_code": "USD",
+    "target_code": "MXN",
+    "amount": 345.0,
+    "conversion_result": 5924.0295
+  },
+  {
+    "base_code": "USD",
+    "target_code": "BRL",
+    "amount": 27.0,
+    "conversion_result": 140.7834
+  },
+  {
+    "base_code": "BRL",
+    "target_code": "USD",
+    "amount": 58.0,
+    "conversion_result": 11.1244
+  }
+]
