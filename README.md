@@ -6,6 +6,16 @@
 
 :nut_and_bolt: Proyecto en construcción :nut_and_bolt:
 
+1. [Características](#características)
+2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+3. [Estructura del proyecto](#estructura-del-proyecto)   
+3.1. [Descripción de los componentes](#descripción-de-los-componentes)
+4. [Instalación y ejecución](#instalación-y-ejecución)
+5. [Persistencia de datos](#persistencia-de-datos)
+6. [Aprendizajes aplicados](#aprendizajes-aplicados)
+7. [Mejoras futuras](#mejoras-futuras)
+8. [Desarrolladores](#desarrolladores)
+
 Aplicación de consola desarrollada en Java 24 que permite realizar conversiones de divisas en tiempo real utilizando la API de ExchangeRate-API.
 
 El sistema muestra un menú interactivo, solicita el monto a convertir, consulta el tipo de cambio actualizado desde la API y devuelve el resultado al usuario.
@@ -107,7 +117,7 @@ Durante el desarrollo del challenge se consolidaron conocimientos en:
 * Implementar validaciones adicionales de entrada
 * Implementar interfaz gráfica
 
-  ## DESARROLLADORES
+## Desarrolladores
 * Mariana Rodríguez
     * [Linkedin](https://www.linkedin.com/in/mariana-rodr%C3%ADguez-b19b0048/)
     * [GitHub](https://github.com/marirois)
